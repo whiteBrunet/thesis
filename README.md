@@ -1,4 +1,5 @@
 ![logo](<img width="38" alt="adobe-illustrator-cc-logo-C1DC5A" src="https://github.com/whiteBrunet/thesis/assets/155043336/286ebf0e-d63c-4184-81f3-654cebb79189">)
+
 # Согласование, подготовка к дипломному проекту...
 ## Тема проекта:
 * _"Искусственный интеллект в сфере мобильных разработок"._
