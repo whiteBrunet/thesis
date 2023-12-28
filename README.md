@@ -1,7 +1,7 @@
-<img width="38" alt="adobe-illustrator-cc-logo-C1DC5A" src="https://github.com/whiteBrunet/thesis/assets/155043336/d84c9376-b09c-4575-bf6a-840aab710cb4">
 
 
-# Согласование, подготовка к дипломному проекту...
+
+# Согласование, подготовка к дипломному проекту...<img width="38" alt="adobe-illustrator-cc-logo-C1DC5A" src="https://github.com/whiteBrunet/thesis/assets/155043336/d84c9376-b09c-4575-bf6a-840aab710cb4">
 ## Тема проекта:
 * _"Искусственный интеллект в сфере мобильных разработок"._
 
