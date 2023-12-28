@@ -1,4 +1,5 @@
-![logo](![adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo com](https://github.com/whiteBrunet/thesis/assets/155043336/15da6f7a-4701-4a90-932a-b0f3cbb2f4c2)
+![logo](<img width="38" alt="adobe-illustrator-cc-logo-C1DC5A" src="https://github.com/whiteBrunet/thesis/assets/155043336/286ebf0e-d63c-4184-81f3-654cebb79189">
+)
 )
 # Согласование, подготовка к дипломному проекту...
 ## Тема проекта:
