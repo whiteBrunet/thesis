@@ -1,4 +1,5 @@
-![logo](<img width="38" alt="adobe-illustrator-cc-logo-C1DC5A" src="https://github.com/whiteBrunet/thesis/assets/155043336/286ebf0e-d63c-4184-81f3-654cebb79189">)
+<img width="38" alt="adobe-illustrator-cc-logo-C1DC5A" src="https://github.com/whiteBrunet/thesis/assets/155043336/d84c9376-b09c-4575-bf6a-840aab710cb4">
+
 
 # Согласование, подготовка к дипломному проекту...
 ## Тема проекта:
